@@ -1,8 +1,8 @@
 class ClaudeAt < Formula
   desc "Schedule Claude Code CLI sessions via macOS launchd"
   homepage "https://github.com/PresenceWith/claude-at"
-  url "https://github.com/PresenceWith/claude-at/archive/refs/tags/v0.1.6.tar.gz"
-  sha256 "7fd6699a806289b924933345106c407a718f8d31ee2f7a2d4cede38be633279b"
+  url "https://github.com/PresenceWith/claude-at/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "81646035ab91c62bf02d20410bfecfcdf88e08bb99575128aea4ff2bd8485e08"
   license "MIT"
 
   depends_on :macos
