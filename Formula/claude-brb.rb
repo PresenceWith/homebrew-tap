@@ -1,8 +1,8 @@
 class ClaudeBrb < Formula
   desc "Schedule Claude Code CLI sessions via macOS launchd"
   homepage "https://github.com/PresenceWith/claude-brb"
-  url "https://github.com/PresenceWith/claude-brb/archive/refs/tags/v0.3.3.tar.gz"
-  sha256 "6bcbec614a8e0a38f6c3c0bfda5eee7f97991cfa5c22998f7d4a39d0e1805c11"
+  url "https://github.com/PresenceWith/claude-brb/archive/refs/tags/v0.3.4.tar.gz"
+  sha256 "74bd2da8e6485a3d11923979c9b48e0d4af1dd69564c529d20c8c36fafba0a71"
   license "MIT"
 
   depends_on :macos
